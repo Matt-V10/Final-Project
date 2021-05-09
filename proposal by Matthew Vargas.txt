@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+My Adventure Academia
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+I'm creating a Choose Your Own Adventure Game based on the My Hero Academia anime.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The software will prompt the user to participate in the game by asking them what type of character they want to play as. The program will then randomly generate 1 os 20 characters from the list that corresponds to the type they choose. This is where the adventure begins. Based on the type they'll be presented with different scenarios. The wiser their decisions, the further ahead they get in the game but make one wrong mistake and you loose. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+Not applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Not applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+Properly gives you a character based on a type chosen by the user and lets you advance through the story properly and not print everything at once
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Go through the entire story and be able to recgnize the easter eggs from the anime as you play.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+THe user can play through the game 3 times, each with a different type of character and see what the outsomes are for each as they complete the adventure
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I'll look more into the anime to see what I can use to form a good story from multiple perspectives. I'll work on my refining if statements skills to make nested if statements that function properly. I'll also look more into what import random has to offer to see what other things I can utilize.
